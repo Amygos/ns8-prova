@@ -1,8 +1,8 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "title": "Get kickstart configuration",
-    "$id": "http://nethserver.org/json-schema/task/output/kickstart/get-configuration",
-    "description": "Get kickstart configuration",
+    "title": "Get prova configuration",
+    "$id": "http://nethserver.org/json-schema/task/output/prova/get-configuration",
+    "description": "Get prova configuration",
     "examples": [],
     "type": "object"
 }
